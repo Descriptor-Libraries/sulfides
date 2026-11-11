@@ -1,0 +1,21 @@
+[
+    {
+        "alkyl-S-alkyl": {
+            "name": "alkyl-S-alkyl",
+            "color": "#e8c827"
+        },
+        "aryl-S-aryl": {
+            "name": "aryl-S-aryl",
+            "color": "#a63028"
+        },
+        "aryl-S-alkyl": {
+            "name": "aryl-S-alkyl",
+            "color": "#85d14f"
+        },
+        "aryl-S-Me": {
+            "name": "aryl-S-Me",
+            "color": "#437a1c"
+        }
+
+    }
+]

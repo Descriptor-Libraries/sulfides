@@ -1,0 +1,15 @@
+[{
+    "number": "2809",
+    "description": "DFT-calculated molecules"
+  },
+
+  {
+    "number": "2809",
+    "description": "lowest energy conformers"
+  },
+  
+  {
+    "number": "27",
+    "description": "DFT-level descriptors"
+  }
+]
